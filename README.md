@@ -15,6 +15,7 @@ Data used for building this model was taken from https://www.kaggle.com/datasets
 
 ### References
 Contributions to the study of SMS spam filtering: new collection and results
+
 By Tiago A. Almeida, J. M. G. Hidalgo, A. Yamakami. 2011
 
 Published in ACM Symposium on Document Engineering
