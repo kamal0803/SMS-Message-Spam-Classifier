@@ -1,6 +1,6 @@
 # SMS Message Spam Classifier
 
-Developed a spam classifier model to classify spam SMS messages using the popular Naive Baye's algorithm from scratch.
+A spam classifier model to classify spam SMS messages using the popular Naive Baye's algorithm from scratch.
 
 ## Approach
 A spam classifier model was built to classify spam SMS messages using the popular Naive Baye's algorithm from scratch.
